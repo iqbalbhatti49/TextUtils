@@ -1,0 +1,9 @@
+.dark-mode-btn {
+    background-color: transparent !important;
+    border: none;
+}
+
+.toggle-btn {
+    border: none;
+    background-color: white !important;
+}
